@@ -58,5 +58,6 @@ subplot(3,2,5);
 # OUTPUT:
 <img width="1920" height="1200" alt="Screenshot 2025-10-08 093220" src="https://github.com/user-attachments/assets/28e0aa78-7d3d-45d4-aa2a-3141b2441dda" />
 
+
 # RESULT:
    Thus the Autocorrelation and PSD are executed in Scilab and output is verified.
